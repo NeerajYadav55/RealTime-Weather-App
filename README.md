@@ -35,7 +35,7 @@ The **Real-Time Weather App** is a web application that provides live weather up
    ```
 
 ## 🌍 Live Demo
-🔗 [View Live Demo](https://NeerajYadav55.github.io/Weather-App/)
+🔗 [View Live Demo](https://neerajyadav55.github.io/RealTime-Weather-App/)
 
 ## 📜 License
 This project is **open-source** and available under the **MIT License**.
